@@ -1,0 +1,9 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+src-tauri/resources/
+tools/
+out_test/
+*.wav
+*.log
